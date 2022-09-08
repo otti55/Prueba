@@ -1,1 +1,2 @@
-prin (¨primer mensaje¨)
+print (¨primer mensaje¨)
+print ("segundo mensaje")
